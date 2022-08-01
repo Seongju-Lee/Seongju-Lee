@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://lsj31404.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=social&logo=Storyblok&logoColor=white"/></a>&nbsp 
+<a href="https://lsj31404.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=social&logo=Python&logoColor=white"/></a>&nbsp 
 
 ### 안녕하세요. 서울에서 Backend 개발자로 일하고 있는 이성주입니다.
 <!--
