@@ -6,7 +6,7 @@
 
 
 방문해주셔서 감사합니다😄<br>
-서울에서 <b>Backend 엔지니어로 일하고 있는 이성주</b>입니다.🔭
+서울에서 <b>Backend 엔지니어로 일하고 있는 이성주(Watson)</b>입니다.🔭
 
 ## My tech stack 📚
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
