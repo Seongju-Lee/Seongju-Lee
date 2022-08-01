@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!-- <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp -->
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Storyblok&logoColor=white"/></a>&nbsp 
+<a href="https://lsj31404.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Python-3766AB?style=social&logo=Storyblok&logoColor=white"/></a>&nbsp 
+
+### 안녕하세요. 서울에서 Backend 개발자로 일하고 있는 이성주입니다.
 <!--
 **Seongju-Lee/Seongju-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
