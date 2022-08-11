@@ -2,7 +2,9 @@
 
 <a href="https://lsj31404.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 <a href="https://lsj31404.tistory.com" target="_blank"><img src="https://img.shields.io/badge/lsj40413@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!--
 <a href="https://lsj31404.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+-->
 
 
 방문해주셔서 감사합니다😄<br>
